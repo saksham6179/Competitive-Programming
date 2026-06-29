@@ -8,10 +8,7 @@ public class aAmbitiousKid{
         int ans = Integer.MAX_VALUE;
         StringTokenizer st = new StringTokenizer(br.readLine());
         for(int i = 0;i<n;i++){
-            int dif = Math.abs(Integer.parseInt(st.nextToken()));
-            if(dif<ans){
-                ans = dif;
-            }
+            ans = Math.min(ans,Math.abs(Integer.parseInt(st.nextToken())));
         }
         System.out.println(ans);
     }

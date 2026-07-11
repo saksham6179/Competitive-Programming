@@ -9,22 +9,16 @@ public class aOneAndTwo{
         while(t-- > 0){
             int n = Integer.parseInt(br.readLine());
             StringTokenizer st = new StringTokenizer(br.readLine());
-            int[] arr = new int[n];
-            int product = 1;
+            HashMap<Integer,Integer>twoCount = new HashMap<>();
+            int count = 0;
+            twoCount.put(0,0);
             for(int i = 0;i<n;i++){
-                arr[i] = Integer.parseInt(st.nextToken());
-                product *= arr[i];
+              if(Integer.parseInt(st.nextToken())==2){
+                count++;
+                twoCount.put(count,i);
+              }
             }
-            int tempProduct = 1;
-            int k = -1;
-            for(int i = 0;i<n;i++){
-                tempProduct *= arr[i];
-                if(product/tempProduct==tempProduct){
-                    k = i+1;
-                    break;
-                }
-            }
-            System.out.println(k);
+            System.out.println((count%2==0)?twoCount.get((count/2))+1 : -1);
         }
     }
 }

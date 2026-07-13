@@ -14,13 +14,12 @@ public class B{
             }
             System.out.print(1  + " ");
             n--;
-            long i = 2;
+            long next = 2;
             long sum = 1;
-            while(n>0){
-                System.out.print(i + " ");
-                sum += i;
-                i = sum;
-                n--;
+            while(n-- > 0){
+                System.out.print(next + " ");
+                sum += next;
+                next = sum;
             }
             System.out.println();
         }

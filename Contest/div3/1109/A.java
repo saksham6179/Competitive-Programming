@@ -1,0 +1,85 @@
+import java.io.*;
+import java.util.*;
+import java.lang.*;
+
+public class A{
+    public static void main(String[] args)throws Exception{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(br.readLine());
+        while(t-- > 0){
+            int n = Integer.parseInt(br.readLine());
+            String page = br.readLine();
+            int max = 0, count = 0;
+            for(int i = 0;i<page.length();i++){
+                if(page.charAt(i)=='*'){
+                    max = Math.max((count+1)/2,max);
+                    count = -1;
+                }
+                count++;
+            }
+            max = Math.max((count+1)/2,max);
+            System.out.println(max);
+        }
+    }
+}
+
+/* Problem Statement
+
+A. Iskander and Drawings
+time limit per test1 second
+memory limit per test256 megabytes
+During a geometry lesson, Iskander got very bored, so he decided to draw in Yura's notebook. To do this, he took a row and drew horizontal lines on it. Some lines are long, some are short, and some parts of the page remain empty.
+
+The page is represented by a string s
+, where the character '*' denotes an empty part of the paper, and the character '#' denotes one centimeter of a drawn line. A continuous sequence of '#' characters forms a single line.
+
+Yura decided to erase all the lines and made Iskander help him: they will erase one of the lines from both ends simultaneously.
+
+Each second, Iskander erases 1
+ centimeter from the right end of the line, and Yura erases 1
+ centimeter from the left end.
+If the current length of the line is 1
+ or 2
+ centimeters, then in the next second it is erased completely, and the process ends.
+Yura wants to choose a line so that, together with Iskander, they erase it for as long as possible. Help him determine this maximum time. If there are no lines on the page, the answer is 0
+ seconds.
+
+Input
+The first line contains a single integer t
+ (1≤t≤2500
+) — the number of test cases.
+
+The first line of each test case contains an integer n
+ (1≤n≤10
+) — the length of the string s
+.
+
+The second line of each test case contains a string s
+ of length n
+, consisting of characters '#' and '*'.
+
+Output
+For each test case, output a single integer — the maximum time required to erase a line.
+
+Example
+Input
+5
+7
+#*##*##
+8
+########
+8
+********
+8
+#*****##
+6
+*#####
+
+Output
+1
+4
+0
+1
+3
+
+*/

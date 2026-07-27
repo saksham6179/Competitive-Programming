@@ -19,3 +19,8 @@ public class aButtons{
         }
     }
 }
+
+/*
+Problem: Codeforces 1858A - Buttons
+Link: https://codeforces.com/problemset/problem/1858/A
+*/

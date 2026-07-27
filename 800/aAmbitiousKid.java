@@ -13,3 +13,8 @@ public class aAmbitiousKid{
         System.out.println(ans);
     }
 }
+
+/*
+Problem: Codeforces 1866A - Ambitious Kid
+Link: https://codeforces.com/problemset/problem/1866/A
+*/

@@ -31,3 +31,8 @@ public class dBalancedRound{
         }
     }
 }
+
+/*
+Problem: Codeforces 1850D - Balanced Round
+Link: https://codeforces.com/problemset/problem/1850/D
+*/

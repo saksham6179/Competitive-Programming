@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class HalloumiBoxes{
+public class aHalloumiBoxes{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int k = Integer.parseInt(br.readLine());
@@ -32,3 +32,8 @@ public class HalloumiBoxes{
         }
     }
 }
+
+/*
+Problem: Codeforces 1903A - Halloumi Boxes
+Link: https://codeforces.com/problemset/problem/1903/A
+*/

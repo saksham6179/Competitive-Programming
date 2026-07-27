@@ -23,3 +23,8 @@ public class aArrayColoring{
         }
     }
 }
+
+/*
+Problem: Codeforces 1857A - Array Coloring
+Link: https://codeforces.com/problemset/problem/1857/A
+*/

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class NextRound{
+public class aNextRound{
     public static int bs(int[] arr,int low,int high,int k){
         if(low>high){
             return 0;
@@ -28,3 +28,8 @@ public class NextRound{
         System.out.println(bs(scores,0,n-1,scores[k-1]));
     }
 }
+
+/*
+Problem: Codeforces 158A - Next Round
+Link: https://codeforces.com/problemset/problem/158/A
+*/

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class ALineTrip{
+public class aLineTrip{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -28,3 +28,8 @@ public class ALineTrip{
         }
     }
 }
+
+/*
+Problem: Codeforces 1901A - Line Trip
+Link: https://codeforces.com/problemset/problem/1901/A
+*/

@@ -18,3 +18,8 @@ public class aGrasshopperOnALine{
         }
     }
 }
+
+/*
+Problem: Codeforces 1837A - Grasshopper on a Line
+Link: https://codeforces.com/problemset/problem/1837/A
+*/

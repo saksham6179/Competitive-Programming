@@ -37,3 +37,8 @@ public class aSevralAndMochasArray{
         }
     }
 }
+
+/*
+Problem: Codeforces 1789A - Serval and Mocha's Array
+Link: https://codeforces.com/problemset/problem/1789/A
+*/

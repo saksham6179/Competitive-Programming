@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Watermelon{
+public class aWatermelon{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int weight = Integer.parseInt(br.readLine());
@@ -12,3 +12,8 @@ public class Watermelon{
         System.out.println(ans);
     }
 }
+
+/*
+Problem: Codeforces 4A - Watermelon
+Link: https://codeforces.com/problemset/problem/4/A
+*/

@@ -22,3 +22,8 @@ public class aOneAndTwo{
         }
     }
 }
+
+/*
+Problem: Codeforces 1788A - One and Two
+Link: https://codeforces.com/problemset/problem/1788/A
+*/

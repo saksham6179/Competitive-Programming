@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class GoalsOfVictory{
+public class aGoalsOfVictory{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -17,3 +17,8 @@ public class GoalsOfVictory{
         }
     }
 }
+
+/*
+Problem: Codeforces 1877A - Goals of Victory
+Link: https://codeforces.com/problemset/problem/1877/A
+*/

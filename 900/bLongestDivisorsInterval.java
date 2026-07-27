@@ -18,3 +18,8 @@ public class bLongestDivisorsInterval{
         }
     }
 }
+
+/*
+Problem: Codeforces 1855B - Longest Divisors Interval
+Link: https://codeforces.com/problemset/problem/1855/B
+*/

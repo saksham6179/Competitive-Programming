@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class InterestingDrink{
+public class bInterestingDrink{
     public static int bs(int[]prizes,int low,int high,int budget){
         if(low>high){
             return 0;
@@ -34,3 +34,8 @@ public class InterestingDrink{
         }
     }
 }
+
+/*
+Problem: Codeforces 706B - Interesting Drink
+Link: https://codeforces.com/problemset/problem/706/B
+*/

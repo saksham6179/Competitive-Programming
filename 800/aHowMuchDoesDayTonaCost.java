@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class HowMuchDoesDayTonaCost{
+public class aHowMuchDoesDayTonaCost{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -20,3 +20,8 @@ public class HowMuchDoesDayTonaCost{
         }
     }
 }
+
+/*
+Problem: Codeforces 1878A - How Much Does Daytona Cost?
+Link: https://codeforces.com/problemset/problem/1878/A
+*/

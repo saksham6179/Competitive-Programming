@@ -23,3 +23,8 @@ public class aEverybodyLikesGoodArrays{
         }
     }
 }
+
+/*
+Problem: Codeforces 1861A - Everybody Likes Good Arrays!
+Link: https://codeforces.com/problemset/problem/1861/A
+*/

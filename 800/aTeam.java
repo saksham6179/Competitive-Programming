@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Team{
+public class aTeam{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int noOfQue = Integer.parseInt(br.readLine());
@@ -21,3 +21,8 @@ public class Team{
         System.out.println(solvableQue);
     }
 }
+
+/*
+Problem: Codeforces 231A - Team
+Link: https://codeforces.com/problemset/problem/231/A
+*/

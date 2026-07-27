@@ -57,3 +57,8 @@ public class aForked{
         }
     }
 }
+
+/*
+Problem: Codeforces 1904A - Forked!
+Link: https://codeforces.com/problemset/problem/1904/A
+*/

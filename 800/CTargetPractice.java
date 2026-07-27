@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CTargetPractice{
+public class cTargetPractice{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -24,3 +24,8 @@ public class CTargetPractice{
         }
     }
 }
+
+/*
+Problem: Codeforces 1873C - Target Practice
+Link: https://codeforces.com/problemset/problem/1873/C
+*/

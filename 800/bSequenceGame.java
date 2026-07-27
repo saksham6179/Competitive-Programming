@@ -28,3 +28,8 @@ public class bSequenceGame{
         }
     }
 }
+
+/*
+Problem: Codeforces 1862B - Sequence Game
+Link: https://codeforces.com/problemset/problem/1862/B
+*/

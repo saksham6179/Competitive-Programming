@@ -34,3 +34,8 @@ public class aUnitArray{
         }
     }
 }
+
+/*
+Problem: Codeforces 1834A - Unit Array
+Link: https://codeforces.com/problemset/problem/1834/A
+*/

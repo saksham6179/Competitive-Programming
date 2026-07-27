@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class GameWithIntegers{
+public class aGameWithIntegers{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -18,3 +18,8 @@ public class GameWithIntegers{
         }
     }
 }
+
+/*
+Problem: Codeforces 1899A - Game with Integers
+Link: https://codeforces.com/problemset/problem/1899/A
+*/

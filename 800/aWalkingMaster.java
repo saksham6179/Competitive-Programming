@@ -23,3 +23,8 @@ public class aWalkingMaster{
         }
     }
 }
+
+/*
+Problem: Codeforces 1806A - Walking Master
+Link: https://codeforces.com/problemset/problem/1806/A
+*/

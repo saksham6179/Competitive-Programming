@@ -27,3 +27,8 @@ public class bChemistry{
         }
     }
 }
+
+/*
+Problem: Codeforces 1883B - Chemistry
+Link: https://codeforces.com/problemset/problem/1883/B
+*/

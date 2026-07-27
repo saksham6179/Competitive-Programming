@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class ADontTryToCount{
+public class aDontTryToCount{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -27,3 +27,8 @@ public class ADontTryToCount{
         }
     }
 }
+
+/*
+Problem: Codeforces 1881A - Don't Try to Count
+Link: https://codeforces.com/problemset/problem/1881/A
+*/

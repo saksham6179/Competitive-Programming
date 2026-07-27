@@ -23,3 +23,8 @@ public class aMakeItZero{
         }
     }
 }
+
+/*
+Problem: Codeforces 1869A - Make It Zero
+Link: https://codeforces.com/problemset/problem/1869/A
+*/

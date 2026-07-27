@@ -44,3 +44,8 @@ public class aUnitedWeStand{
         }
     }
 }
+
+/*
+Problem: Codeforces 1859A - United We Stand
+Link: https://codeforces.com/problemset/problem/1859/A
+*/

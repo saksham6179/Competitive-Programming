@@ -23,3 +23,8 @@ public class cVasilijeInCacak{
         }
     }
 }
+
+/*
+Problem: Codeforces 1878C - Vasilije in Cacak
+Link: https://codeforces.com/problemset/problem/1878/C
+*/

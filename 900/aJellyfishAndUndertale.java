@@ -20,3 +20,8 @@ public class aJellyfishAndUndertale{
         }
     }
 }
+
+/*
+Problem: Codeforces 1875A - Jellyfish and Undertale
+Link: https://codeforces.com/problemset/problem/1875/A
+*/

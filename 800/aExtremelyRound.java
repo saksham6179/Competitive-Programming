@@ -18,3 +18,8 @@ public class aExtremelyRound{
         }
     }
 }
+
+/*
+Problem: Codeforces 1766A - Extremely Round
+Link: https://codeforces.com/problemset/problem/1766/A
+*/

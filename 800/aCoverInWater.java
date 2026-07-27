@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CoverInWater{
+public class aCoverInWater{
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine());
@@ -33,3 +33,8 @@ public class CoverInWater{
         }
     }
 }
+
+/*
+Problem: Codeforces 1900A - Cover in Water
+Link: https://codeforces.com/problemset/problem/1900/A
+*/

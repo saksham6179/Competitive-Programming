@@ -13,3 +13,8 @@ public class aTwoPermutations{
         }
     }
 }
+
+/*
+Problem: Codeforces 1761A - Two Permutations
+Link: https://codeforces.com/problemset/problem/1761/A
+*/

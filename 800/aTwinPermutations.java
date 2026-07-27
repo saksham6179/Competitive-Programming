@@ -17,3 +17,8 @@ public class aTwinPermutations{
         }
     }
 }
+
+/*
+Problem: Codeforces 1831A - Twin Permutations
+Link: https://codeforces.com/problemset/problem/1831/A
+*/

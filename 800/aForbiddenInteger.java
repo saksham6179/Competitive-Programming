@@ -52,3 +52,8 @@ public class aForbiddenInteger{
         }
     }
 }
+
+/*
+Problem: Codeforces 1845A - Forbidden Integer
+Link: https://codeforces.com/problemset/problem/1845/A
+*/

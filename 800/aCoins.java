@@ -18,3 +18,8 @@ public class aCoins{
         }
     }
 }
+
+/*
+Problem: Codeforces 1814A - Coins
+Link: https://codeforces.com/problemset/problem/1814/A
+*/

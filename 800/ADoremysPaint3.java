@@ -33,3 +33,8 @@ public class ADoremysPaint3{
         }
     }
 }
+
+/*
+Problem: Codeforces 1890A - Doremy's Paint 3
+Link: https://codeforces.com/problemset/problem/1890/A
+*/

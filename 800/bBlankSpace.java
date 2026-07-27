@@ -21,3 +21,8 @@ public class bBlankSpace{
         }
     }
 }
+
+/*
+Problem: Codeforces 1829B - Blank Space
+Link: https://codeforces.com/problemset/problem/1829/B
+*/

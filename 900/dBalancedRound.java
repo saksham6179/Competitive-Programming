@@ -16,7 +16,7 @@ public class dBalancedRound{
                 problems[i] = Integer.parseInt(st.nextToken());
             }
             Arrays.sort(problems);
-            int maxSeqCount = 0;
+            int maxSeqCount = 0; 
             int currentSeqCount = 0;
             for(int i = 1;i<n;i++){
                 if(problems[i]-problems[i-1]>k){

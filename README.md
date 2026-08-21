@@ -1,32 +1,40 @@
 # Competitive Programming
 
-A collection of my Codeforces solutions and contest submissions, documenting my journey of becoming a better competitive programmer through consistent practice.
+A collection of my Codeforces solutions and contest submissions, documenting my journey through competitive programming.
 
-## 💻 Language
+<div align="center">
 
-- Java
+**Java · Codeforces · Problem Solving**
 
-## 📂 Current Structure
+[Codeforces](https://codeforces.com/profile/saksham_6179) · `saksham_6179`
 
-```
-Competitive Programming
-│
-├── 800/
-├── 1100/
-├── Contest/
-│   └── Div2/
-├── README.md
-└── .gitignore
-```
-
-> More difficulty folders and contest folders will be added as I continue practicing.
-
-## 📈 Repository Progress
-
-- ✅ 800 Rated Problems
-- ✅ 1100 Rated Problems
-- ✅ Contest Solutions
+</div>
 
 ---
 
-> "Full intent, hope and faith. One problem at a time." `>_<`
+## Repository
+
+### Contest
+
+Solutions from Codeforces contests I've participated in.
+
+```text
+Contest/
+├── Div2/
+└── Div3/
+```
+
+### Practice
+
+Problems organized by Codeforces rating.
+
+```text
+Practice/
+├── 800/
+├── 900/
+└── 1100/
+```
+
+---
+
+> "Full intent, hope and faith. One problem at a time." `>_<` XD

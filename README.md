@@ -6,9 +6,9 @@ A collection of my Codeforces solutions and contest submissions, documenting my 
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-saksham__6179-1f8acb?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/saksham_6179)
+[![Codeforces](https://img.shields.io/badge/Codeforces-saksham__6179-1F8ACB?style=flat\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/saksham_6179)
   
-![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square\&logo=openjdk\&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Java-F89820?style=flat\&logo=openjdk\&logoColor=white)
 
 </div>
 

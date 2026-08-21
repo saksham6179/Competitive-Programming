@@ -1,40 +1,82 @@
 # Competitive Programming
 
-A collection of my Codeforces solutions and contest submissions, documenting my journey through competitive programming.
-
 <div align="center">
 
-**Java · Codeforces · Problem Solving**
+**Codeforces solutions & contest submissions**
 
-[Codeforces](https://codeforces.com/profile/saksham_6179) · `saksham_6179`
+`Java` · `Competitive Programming` · `Problem Solving`
+
+<br>
+
+[**Codeforces**](https://codeforces.com/profile/saksham_6179) · `saksham_6179`
 
 </div>
 
 ---
 
-## Repository
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Contest
+### 🏆 Contest
 
 Solutions from Codeforces contests I've participated in.
 
-```text
-Contest/
-├── Div2/
-└── Div3/
-```
+<br>
 
-### Practice
+**Div. 2**
+`Contest/Div2/`
+
+**Div. 3**
+`Contest/Div3/`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Practice
 
 Problems organized by Codeforces rating.
 
+<br>
+
+**800**
+`Practice/800/`
+
+**900**
+`Practice/900/`
+
+**1100**
+`Practice/1100/`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Repository Structure
+
 ```text
-Practice/
-├── 800/
-├── 900/
-└── 1100/
+Competitive-Programming/
+│
+├── Contest/
+│   ├── Div2/
+│   └── Div3/
+│
+├── Practice/
+│   ├── 800/
+│   ├── 900/
+│   └── 1100/
+│
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-> "Full intent, hope and faith. One problem at a time." `>_<` XD
+<div align="center">
+
+*"Full intent, hope and faith. One problem at a time."* `>_<` XD
+
+</div>

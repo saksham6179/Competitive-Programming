@@ -6,33 +6,41 @@ A collection of my Codeforces solutions and contest submissions, documenting my 
 
 <div align="center">
 
-[**Codeforces**](https://codeforces.com/profile/saksham_6179)
-`saksham_6179`
+[![Codeforces](https://img.shields.io/badge/Codeforces-saksham__6179-1f8acb?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/saksham_6179)
+  
+![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square\&logo=openjdk\&logoColor=white)
 
 </div>
 
----
-
-## Practice
-
-|  Rating  | Problems                           |
-| :------: | ---------------------------------- |
-|  **800** | [`Practice/800`](./Practice/800)   |
-|  **900** | [`Practice/900`](./Practice/900)   |
-| **1100** | [`Practice/1100`](./Practice/1100) |
-
-## Contests
-
-|  Division  | Solutions                        |
-| :--------: | -------------------------------- |
-| **Div. 2** | [`Contest/Div2`](./Contest/Div2) |
-| **Div. 3** | [`Contest/Div3`](./Contest/Div3) |
+<br>
 
 ---
 
-### Language
+## CP31 Sheet
 
-`Java`
+My practice follows the **CP31 Sheet**, using it as a structured collection of problems for improving problem-solving skills.
+
+[**View CP31 Sheet →**](https://www.tle-eliminators.com/cp-sheet)
+
+---
+
+## Repository Structure
+
+```text
+Competitive-Programming/
+│
+├── Contest/
+│   ├── Div2/
+│   └── Div3/
+│
+├── Practice/
+│   ├── 800/
+│   ├── 900/
+│   └── 1100/
+│
+├── README.md
+└── .gitignore
+```
 
 ---
 

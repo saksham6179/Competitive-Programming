@@ -42,6 +42,8 @@ Competitive-Programming/
 └── .gitignore
 ```
 
+> **Note:** The `Contest` folders contain only the problems I have solved from each contest. Both `Practice` and `Contest` folders are continuously updated as I solve more problems and participate in more contests. :)
+
 ---
 
 <div align="center">

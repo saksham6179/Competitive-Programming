@@ -27,7 +27,9 @@ My practice follows the ****CP31 Sheet****, using it as a structured collection 
 **## Repository Structure**
 
 ```text
+
 Competitive-Programming/
+
 │
 ├── Contest/
 │   ├── Div2/
@@ -41,6 +43,7 @@ Competitive-Programming/
 │
 ├── README.md
 └── .gitignore
+
 ```
 
 > ****Note:**** The `Contest` folders contain only the problems I have solved from each contest. Both `Practice` and `Contest` folders are continuously updated as I solve more problems and participate in more contests. :)

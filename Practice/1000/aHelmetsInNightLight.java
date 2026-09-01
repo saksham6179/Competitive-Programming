@@ -49,3 +49,8 @@ public class aHelmetsInNightLight{
         }
     }
 }
+
+/*
+Codeforces 1876A - Helmets in Night Light
+https://codeforces.com/problemset/problem/1876/A
+*/
